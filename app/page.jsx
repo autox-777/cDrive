@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return <>
-  <div className="flex justify-center select-none bg-[#eee] flex-col items-center h-screen">
+  <div className="flex justify-center select-none  flex-col items-center h-screen">
 
         <div className="w-[380px]  px-10 py-15 rounded-md border-[1px] border-gray-300 shadow-md">
 
